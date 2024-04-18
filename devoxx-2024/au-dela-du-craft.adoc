@@ -7,3 +7,4 @@ Orateur : *cyrille martraire* (CTO co-fondateur d'Arolla)
 Au cours de cette session, nous passerons en revue l'histoire du Software Craft jusqu'à présent, et rappelerons ce que cela a permis d'accomplir dans notre industrie. Surtout, nous verrons comment reconsidérer notre attachement au Craft dans le contexte actuel, comment l'adapter pour tirer le meilleur profit des innovations technologiques, et comment bien choisir les sujets dans lesquels investir votre temps d'apprentissage, pour finalement devenir Post-Craft !
 
 ## NOTES
+
