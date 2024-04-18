@@ -1,1 +1,12 @@
 # Quick notes
+
+TIP: Some tip text.
+
+IMPORTANT: Some important text.
+
+WARNING: Some warning text.
+
+CAUTION: Some caution text.
+
+NOTE: This is an example 
+      single-paragraph note.

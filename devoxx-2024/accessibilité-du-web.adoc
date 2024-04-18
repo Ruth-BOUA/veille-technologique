@@ -1,0 +1,10 @@
+# Accessibilité du web, du design au code comment tendre vers davantage d’inclusion ?
+
+Orateur : *Marjorie Aubert* (Développeur full stack chez Comet meetings)
+
+## RÉSUMÉ
+L’idéal serait que les sites que nous créons soient utilisables par toutes et tous, pleinement, et ce, sans que l’utilisateur ait besoin de s’adapter. Pourtant, l’étude de la Web Accessibility Initiative publiée en 2022 démontre que 96,8 % des Home pages testées présentaient au moins une erreur parmi les critères préconisés.
+Nous pouvons nous questionner, qui porte la responsabilité de l’accessibilité d’un produit ? Les développeurs.ses ? Les Products Managers ? Les Products Owners ? Les designers.euses ?
+Ce talk vous propose de (re)découvrir les critères, des outils, permettant de designer, développer et tester des interfaces web plus inclusives. En opposition avec l’idée d’une responsabilité individuelle, nous pouvons toutes et tous contribuer à relever le challenge de tendre vers plus d’inclusion.
+
+## NOTES

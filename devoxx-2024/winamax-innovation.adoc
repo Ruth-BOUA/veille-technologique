@@ -1,0 +1,12 @@
+# All-In sur l'Innovation: La Plateforme Poker Winamax
+
+*Orateur* : *Anthony Maffert* (Ambassadeur technique Winamax) et *Guillaume Dupuis* (Deputy Technical Lead Engineer chez Winamax)
+
+## RÉSUMÉ
+Découvrez l'épopée de Winamax, leader français du poker et des paris sportifs en ligne, qui fédère chaque mois plus d’un million de joueurs de poker et amateurs de paris. Nous vous convions à une exploration de l'histoire de notre plateforme de poker, qui a joué un rôle clé dans notre développement et notre notoriété en France et dans le monde.
+
+Partez à la découverte de notre parcours, depuis nos débuts en 2008 jusqu'à aujourd’hui. Nous partagerons avec vous les étapes cruciales de notre évolution, y compris notre transition stratégique vers le cloud avec AWS et les défis rencontrés lors de la hausse de la demande pendant la pandémie de Covid-19.
+
+Cette conférence se veut un voyage à travers le temps, révélant les innovations et les avancées technologiques qui ont marqué notre histoire. C'est une opportunité d'entrer dans les coulisses de Winamax, où innovation et passion du jeu se conjuguent pour innover.
+
+## NOTES

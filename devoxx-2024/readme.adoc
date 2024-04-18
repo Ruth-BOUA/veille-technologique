@@ -1,0 +1,30 @@
+# DEVOXX FRANCE 2024
+:sectanchors:
+:toc: auto
+
+
+_Date :  Vendredi 19 Avril 2024_
+
+
+== Mes impressions 
+TODO
+
+== Programme
+=== 09h00 - 09h25 : link:rapport-meadows.adoc[Comment modéliser l'état du monde en 2100: le rapport meadows]
+=== 10h30 - 11h15 : link:au-dela-du-craft.adoc[Au-delà du Craft : Revisitez Votre Relation avec le Software Craft]
+=== 11h35 - 12h20 : link:winamax-innovation.adoc[All-In sur l'Innovation: La Plateforme Poker Winamax]
+=== 13h30 - 16h30 : link:kata-architecture.adoc[Travaillez vos réflexions architecturales en kata]
+=== 17h00 - 17h30 : link:accessibilité-du-web.adoc[Accessibilité du web, du design au code comment tendre vers davantage d’inclusion ?]
+=== 17h45 - 18h30 : link:cast-codeurs.adoc[Les Cast Codeurs en chair, en os et en bérets]
+
+
+
+
+
+
+
+link:README.adoc[This document]
+
+
+
+

@@ -1,0 +1,9 @@
+# Travaillez vos réflexions architecturales en kata
+
+Orateur : *Nicolas Delsaux* (Développeur chez Zénika) et *Alexandre Fruchaud* (Développeur chez Zénika)
+
+## RÉSUMÉ
+Définir l’architecture d’un système est une tâche lourde et pleine de responsabilités. On le fait peu, et on en a souvent un peu peur.
+Dans cet atelier basé sur les katas d’architecture, nous allons vous faire travailler sur les réflexions architecturales à travers une succession d’exercices de définition d’architecture avec des contraintes évolutives. A l’issue de chacun de ces exercices, on prendra le temps d’un débriefing pour apporter de nouveaux axes de réflexion. On parlera en particulier du sens métier des besoins techniques, de modèle de documentation d’architecture, et de valeur ajoutée du processus architectural. L’architecture agile sera aussi abordée.
+
+## NOTES
