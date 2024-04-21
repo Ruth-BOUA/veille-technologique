@@ -1,8 +1,18 @@
 # Cybersécurité et cyberdéfense: un sujet géopolitique
 
-Orateur : Guillaume Poupard (Directeur Général Adjoint, Docaposte)
+Orateur : *Guillaume Poupard* (Directeur Général Adjoint, Docaposte)
 
 ## RÉSUMÉ 
 La cybersécurité est souvent vue, à juste titre, sous un angle technique, opérationnel et réglementaire. L’incroyable évolution de la menace informatique nous concerne tous, à titre individuel, au niveau des organisations mais également à l’échelle des Etats. Dans un contexte général de fortes tensions géopolitiques, le cyber est devenu un ingrédient majeur dont l’usage se systématise dans des conflits qualifiés « d’hybrides ». Passionnante et effrayante, cette militarisation de l’espace numérique nous concerne toutes et tous !
 
 ## NOTES
+Docaposte c'est la filiale numérique de la poste. +
+La cyber est devenue populaire à cause des attaques qui sont médiatisées. Depuis 2017 environ le crime organisé à trouvé son modèle économique dans les cyber espace parce que c'est simple à mettre en place et à cause des zones de non droits comme la crimée. +
+c'est facile aussi parce que les victimes peuvent etre nombreuse et vulnérables. En 2019 en France, plusieurs hopitaux ont subi des attaques. Certains évitent les hopitaux juste pour éviter de se faire trop remarquer. +
+la cybercriminalité est une vraie plaie pour tout le monde en particulier pour les petits organismes pas familier du numérique. +
+Mais le pire c'est l'espionnage qui s'est révolutionné avec le numérique. les espions s'installent dans les systèmes et se font discrets. Les victimes ne s'en rendent pas compte pendant plusieurs mois ou années. Il y a honte qui s'installent chez les victimes. Donc personne n'en parle et c'est compliqué à estimer. Le bilan est extrèmement négatifn à l'echelle de la France. +
+
+Mais le plus grave, c'est que la cyber est devenue géopolitique. Les attaquants ont la capacité de bloquer complètement les systèmes. En 2008, le livre blanc de la défense et de la sécurité nationnale a fait la liste de toutes les catastrophes qui pourraient arriver. Il contenait d'ailleurs la pandémie du covid. Et en 2008 il classe la cybercriminalité dans le top 3 des attaques possible en France avec un point sur la paralysie des systèmes. On a donc fait une loi en France : les opérateurs d'importances vitales doivent se protéger des attaques à leur frais. Par exemple: l'énergie, les médias et d'autres secteurs. Tv5 monde a été attaqué en 2015 avec un écran noir et une revendication "cyber dhjihadiste". L'attribution est un vrai problème dans la cyber sécurité d'ailleurs l'attaque venait des grand pénibles de l'est. Un attaque aussi simple peut créer un bel incident géo politique. +
+ WanaCry : ransomware trop organisé qui a fait ecroulé le service de santé en Grande bretagne 
+ Pareil pour NotPetya qui n echiffrait pas les données mais les effaçait. Il attaquait l'ukraine et visait toute l'économie Ukrainienne. Tous les conflits modernes sont accompagnés d'attaques cyber comme c'est le cas actuellement en Ukraine. Les tensions géopolitiques se réflètent dans les attaques. + 
+ En tant que développeur on a un impact et on crée la première ligne de défense qui est de loin la plus robuste et la plus importante

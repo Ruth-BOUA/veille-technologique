@@ -1,8 +1,0 @@
-# Les Cast Codeurs en chair, en os et en béret
-
-Orateurs : *Arnaud Héritier* (engineering manager chez Doctolib), *Emmanuel Bernard* (Java Champion, Senior Distinguished Engineer et Chief Architect services cloud applicatifs chez Red Hat), *Katia Aresti* (Java Champion,Principal Software Engineer chez Red Hat), et *Antonio Goncalves* (Java champion, Ingénieur logiciel chez Microsoft)
-
-## RÉSUMÉ
-Les Cast Codeurs, le papy des podcasts de développement francophones revient cette année à Devoxx pour clôturer cette belle conférence dans la relaxation, la joie et une petite pointe de perspective philosophique. Venez partager avec le public vos impressions de cette cuvée Devoxx, des choses qui vous on surpris, des tendances qui se dessinent.
-
-## NOTES

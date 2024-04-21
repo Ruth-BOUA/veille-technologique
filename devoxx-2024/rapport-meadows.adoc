@@ -6,4 +6,32 @@ Orateur : Anatole Chourad (Conférencier, Chez Anatole)
 Comment modéliser l’état du monde en 2100 ? Pas la question la plus simple ! Mais en 1972 un groupe de chercheurs du MIT a essayé de répondre à cette question : c’est le fameux et fascinant rapport Meadows. Et ils ont compris bien des choses avant tout le monde. Dans cette conférence interactive, je vous fais un résumé en 20 minutes de la méthode et surtout des résultats du rapport Meadows !
 
 ## NOTES
+Il est a son compte. 
+Selon denis medeaows on a tous des habitudes pas forcément les meilleurs et difficile a changer au début. Il a fait un rapport qui parle de changement d'entreprise et individuels.
+le club de rome a étudié la modélisation du monde en 2100 en 1968
+ils ont inventé la dynamique des systémes 101. +
+1- identifier les sytèmes majeurs: il y en a 5
+    alimentaire
+    industriel
+    niveau pollution
+    population
+    ressources +
+2- identifier leurs intéractions
+    ce qui fait augmenter la population c'est les naissances et les décès font baisser +
+    Machines : Invesstissements pour augemnter la production industrielle et dépréciation pour baisser +
 
+3- Quantifier les intéractions +
+    ils avaient quelques contraintes matérielles du au niveau de l'informatique. 
+
+Le résultat : +
+dépassement des limites et ensuite éfondrement en 2100.
+Ils ont fait 12 scénarios en tout. en ayant plus de ressources on les consommerait encore plus vite et on ferait augmenter le pollution tout aussi vite donc même résultat. +
+Enh agissant dès les années 70, modification des transforts et de l'alimentation : on stabilise les courbes mais avec des changements drastiques des 1970. si on attends 30 ans plus tard c'est trop tard on stabiliserait la population mais il y aurait pas assez de nouriture. +
+
+leur conclusion: +
+ils sont dépassés par l'énormité des enjeux
+
+Les critiques: +
+Une fusion entre ce rapport et un autre pourrait etre plus optimiste. "Earth for all" sorti en 2022. Il prends en compte les changements climatiques et plus de paramètres que Meadows. Il est beaucoup moins nuancés. Il se présente comme un guide de survie. il ne contient que deux scénarios : un paradisiaque et l'autre infernal. +
+Il encourage d'autre personnes a travailler pour comprendre et préparer les grands enjeux qui nous attendent.
+"les paroles sont belles mais ce qui compte c'est l'action." Anatole Chourad 

@@ -8,3 +8,50 @@ Au cours de cette session, nous passerons en revue l'histoire du Software Craft 
 
 ## NOTES
 
+Le craft a débuté en 2009. +
+C'est quoi le craft ? : +
+    La complexité était à la mode avec de grosses specs qui devaient etre complètes avant de débuter. Ward Cunigham a proposer de travailler autrement en introduisant XP, Wiki, agile manifest. L'agile est devenu une oppression aujourd'hui. L'agilité scrum en particulier a résolu des problèmes mais à créer du code qui s'empile et est dur a maintenir (autour de 2009). En 2009? ROBERT MARTIN, a créer le manifest craft pour remplacer le manifest agile et corriger les abus de l'agilité. +
+    De ce manifest est né le mouvement 'software Craft'. Il faut construire la bonne chose et le construire bien. le contraire du craft c'est la programmation par coincidence, le manque de maitrise. le craft c'est une boite à outil: +
+    * TDD, clean code, BDD...
+image::assets/TDD.jpeg["TDD Scale maturity"]
+
+c'est mieux de faire les pratiques craft à deux y compris avec un robot. Seulement cela n'a pas beaucoup de succès. Pourtant cela permet d'aller plus vite.
+
+** BDD : c'est une histoire de conversation pas une histoire d'outil en collaborant très trop avec toutes les parties prenantes.
+
+** Legacy : pas facile de faire du TDD sur du legacy. c'est le mindset qui bloque la sortie du legacy. +
+
+Le craft doit aussi s'adapter aujourd'hui au monde moderne. 
+? c'est quoi smalltalk, closure
+Dans le craft il y a un aspect millitant qui permet de dire nonh aux demandes non raisonnables. L'autre aspect du craft est le professionnalisme. On n'a pas de compte à rendre sur les usages nécéssaires au devs comme les tests et prendre le temps pour faire du bon code. +
+Le test et le refactor sont l'équivalent de la sécurité et de l'hygiène. + 
+Il y a des attitudes qui restent pertinentes : 
+
+** le système n'est pas que le logiciel mais aussi l'humain +
+** des petits pas pour apprendre progressivement +
+** La simplicité est très importante, il faut en être fier
+** Etre frugale avec les dépendances et bien les gérer
+** si c'est compliqué il faut le faire le plus souvent possible (build, release) car on l'améliore et on réduit son coût. +
+
+Toutes les pratiques de craft s'exportent dans tous les domaines de la tech: data, Machine learning, architecture... Le craft a déja eu son temps et il a eu un impact. Il commence déja à avoir des abus:
+
+** LE DOGMATISME: imposer une façon de travailler
+    par exemple : le dry (don't repeat yourself) implique du couplage. ce qui est mal il faudra l'éviter à grande échelle. Pour l'éviter on peut faire l'exercie de prendre sa pratique préféree et trouver des cas ou elle ne s'applique pas 
+
+** l'élitisme : il ne faut pas chercher à etre un héros et dominer les autres 
+** toxicité des leaders : quitter les communautés toxiques
+** Tout le temps exécuter les bonnes idées des autres : L'entrepreunariat est à la portée de tous, on a le droit d'essayer nos propres idées.
+** la procrastination : la livraision de valeur doit rester la priorité ne pas chercher à améliorer les contours sans le code.
+
+Quelles sont les nouveautés du craft ?
+Tous les nouveaux trucs sont des trucs anciens. Il faut orendre l'habitude de comparer les nouveautés avec les anciennes choses. Creuser et touvrer la différence clés pour comprendre. 
+No code et low code, on pensait que c'était null mais en fait non.
+On a maintenant le prompt engineering pour les ia génératives.
+Tester en prod : l'avenir
+Il y a une ligne fine entre ce qui est absurde et ce qui sera l'innovation de demain.
+Tout tourne autour de la complexité. 
+préparez vous à rester surpris. 
+
+
+
+

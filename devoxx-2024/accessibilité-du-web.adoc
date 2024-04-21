@@ -8,3 +8,38 @@ Nous pouvons nous questionner, qui porte la responsabilité de l’accessibilit�
 Ce talk vous propose de (re)découvrir les critères, des outils, permettant de designer, développer et tester des interfaces web plus inclusives. En opposition avec l’idée d’une responsabilité individuelle, nous pouvons toutes et tous contribuer à relever le challenge de tendre vers plus d’inclusion.
 
 ## NOTES
+Les lecteurs d'écrans sont parfois le seul outils pour accéder au web pour certaines personnes. Cela peut etre temporaires ou permanents. 80%  des handicaps son tnon visibles.
+L'accéssibilité du web c'est pouvoir accéder participer et créer. +
+AU niveau mondial et en France il y a des référentiels RGAA pour le monde.
+
+Il existe des outils qui testent les critères : +
+
+image::assets/IMG_7356.jpeg[]
+Les outils de navigateurs ne vont pas etre précis +
+Il n'est jamais trop tôt pour intégrer l'accéssibilité dans un projet +
+Il ne faut pas trop vite généraliser et considérer que les handicaps se valent. +
+
+== Design system
+c'est une librairie de composants dans toutes leurs variantes. Qu'on peut construire avec FIGMA et StoryBook. + 
+Pour savoir si deux couleurs sont compatibles on va se basser sur le ratio de contraste. 1 < ratio de contraste < 21
+
+color contrast checker et colororacle pour calculer les ratios de contraste. +
+
+== émojis
+ne pas avoir une seule gamme d'émojis. Aussi ils ne sont pas toujours traduits de la même manière. +
+Il faut les mettres en début ou en fin de phrase et avec du texte qui explique. + 
+
+on peut visualiser l'abre d'accessibilité dans les outils de navigateurs. 
+Il faut bien structurer les fichiers HTML parce qu'ils servent aux lecteurs d'écran. Uitliser un H1 pour titre plutot qu'une div
+
+pour les textes alternatifs mettre des verbes d'action ou mettre vide pour les ilages décoratives
+
+les attributs ARIA sont des attributs pour l'accésibilité. +
+Guide Using aria 
+
+
+image::assets/IMG_7357.jpeg[]
+
+balise alt vide et perte de référencement: pas de crainte avec une HTML bien strucré on a un meilleur score il vaut mieux laisser vide que pas de alt
+
+iddle pour masquer certains éléments 

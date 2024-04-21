@@ -10,3 +10,57 @@ Partez à la découverte de notre parcours, depuis nos débuts en 2008 jusqu'à 
 Cette conférence se veut un voyage à travers le temps, révélant les innovations et les avancées technologiques qui ont marqué notre histoire. C'est une opportunité d'entrer dans les coulisses de Winamax, où innovation et passion du jeu se conjuguent pour innover.
 
 ## NOTES
+
+1. Présentation 
+entreprise de pari en ligne depuis 2010 présen en France et en Europe avec 1 millions de joueurs
+
+2. la phase initiale de dev 2008 - 2010
+client de jeu + backend + infra réseau 
+Backend : besoin gérer des partis de poker en direct. techno choisie C++ pour son coté bas niveau et le temps réel. un peu comme dans les jeux vidéos. 
+Micro services C++ BROKER DE MESSAGE amqP API JSONrpc et bdd mysql. +
+image::assets/IMG_7346.jpeg[]
+image::assets/IMG_7347.jpeg[]
+pour le client de jeu : client desktop/ app  mobile ios et android 
+image::assets/IMG_7348.jpeg[]
+le résultat n'était pas très beau. 
+Lancement en 2010. 
+problèmes d'instabilité lié à l'affluence et cle couplage très fort entre certains services. Ils on t du découplé et racheter du matériel.
+3 bases de code et équipes distinctes qui coutaient +
+
+3. la course à l'innovation 2010-2017 +
+Ils voulaient se démarquer de leur concurrents. 
+lancement de l'expresso en 2013 : format de jeu à 3 joueurs ultra rapide et le gain est aléatoire. Succès retentissant des le début. Grosse montée en charge sur la plateforme. 
+Ils voulaient développer de nouvelles fonctionnalités et exploiter les données sans impacter l'infrastructure. 
+Ils vont introduire Kafka broker de message faible latence. Il va envoyer des données dans des topics
+image::assets/IMG_7349.jpeg[]
+image::assets/IMG_7350.jpeg[]
+image::assets/IMG_7351.jpeg[]
+image::assets/IMG_7352.jpeg[]
+Il avait des accidents avec les serveurs physiques, et des soucis de scalabilités et il etaient vulnérables face au DDOS.
+
+
+4. migration vers le cloud 2017 - 2022 +
+Besoins techniques et business vu leur extension en Europe. +
+Attaque DDOS contre winamax en 2019. ils ont du migrer vers le cloud AWS de façon accélérée. 
+image::assets/IMG_7353.jpeg[]
+2020 confinement covid : pic de mains jouées, grosse montée en charge. Puis grosse chute en Mai suite a une attaque. 
+ils sont donc passés sur des services managaés sur AWS pour la scalabilité et la disponibilités. 
+image::assets/IMG_7354.jpeg[]
+image::assets/IMG_7355.jpeg[]
+ouverture vers des services plus large 
+Résultat : 
+moins vulnérables aux ddos, services managés, mise en production simplifiées. +
+Ils ont égaelemnt fait évoluer leur client de jeux. ils sont passés sur JS, Réact et Electron. Ils ont tout réécrit en JS, les trois bases de codes. 
+Ils ont rendu l'application modulaire avec un client poker 
+
+5. Les nouveaux défis
+il veulent mainteant passer en NodeJs pour avoir plus de flexibilité pour les développeurs
+
+Leur avis sur Flutter : Réact est satisfaisant pour l'instant donc flutter n'est pas envisagé pour l'instant 
+
+Stack d'observabilité : AWS cloud watch
+
+scalabilité de la base de donnée : bdd partitionnées des le début, requetes dans des datalake pour pas impacter la production
+
+impact de la migration sur les équipes : github actions pour la CI, cloudFormation ??.
+
