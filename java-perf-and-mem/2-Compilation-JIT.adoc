@@ -1,0 +1,31 @@
+# Compilation Just in time et code cache
+
+## Ce qui se passe à l'intérieur de la JVM 
+le code java est compilé en bytecode par le java compiler. Quand on exécute l'application la bytecode est alors interpreté par la JVM.
+L'avantage est que ce bytecode peut etre exécuté sur n'importe qu'elle machine qui a une JVM.
+
+## Compilation JIT
+La JVM est capable de compiler nativement (transformer en code natif sans passer par le bytecode) les portions de code 
+qui se repètent dans l'application. c'est ce qu'on appelle la compilation Just In Time. Cela permet d'accélérer l'exécution.
+
+Pour avoir des infos sur la compilation d'un code on peut ajouter le tag " -XX:+PrintCompilation" dans les VM options
+
+-> '-XX' : Option avancée 
+-> '+' ou '-' : signifient respectivement activer ou désactiver l'option suivante
+
+Le résultat de ce tag est un tableau:
+* 1ere colonne : durée en millisecondes depuis le début de l'exécution
+* 2e colonne : ordre d'exécution 
+* 3e colonne : information de compilation ; n -> native, s -> syncronized, % -> code cache , ! -> execption 
+* 4e colonne : type de compilation; 0 ou pas de numéro = interprété, 1 à 4 = niveau de compilation 4 étant le plus élévé
+* 5e colonne : nom de la méthode
+
+Il y a deux compilateurs dans la JVM 
+C1 s'occupe des niveau 1 à 3 et C2 du niveau 4.
+
+le niveau 4 est réservé aux méthodes qui sont régulièrement utilisées. 
+Le code cache est utilisé en plus pour les méthodes les plus importantes.
+Le code cache a une taille limitée. On peut le voir avec cette option "-XX:+PrintCodeCache"
+
+Il existe une application JConsole qui permet de monitorer le code cache. Elle va etre particulièrement utile lorsqu'ona une application 
+tournant sur un serveur distant.

@@ -1,0 +1,10 @@
+# INTRODUCTION
+
+On a JAVA la machine virtuelle et JAVA le language de programmation. 
+Dans ce cours, on apprendra :
+* comment la JVM exécute le code 
+* comment la JVM gère la mémoire 
+* Garbage collection and heap analysis
+* Comment évaluer la performance d'un code
+* comment les choix d'implémentation impactent la performance
+* Les autres langagues JVM 
