@@ -19,9 +19,15 @@ So what kind of skills do people need to develop to improve the quality of their
 - An ability to learn from experience and synthesize new approaches.
 - An ability to demonstrate leadership.
 
-
 ## Levels  of architechture
 
 - **Application Level**: The lowest level of architecture. Focus on one single application. Very detailed, low level design. Communication is usually within one development team.
 - **Solution Level**: The mid-level of architecture. Focus on one or more applications which fulfill a business need (business solution). Some high, but mainly low-level design. Communication is between multiple development teams.
 - **Enterprise Level**: The highest level of architecture. Focus on multiple solutions. High level, abstract design, which needs to be detailed out by solution or application architects. Communication is across the organization.
+
+## Important skils to learn
+
+- [Thoughtworks radar](https://www.thoughtworks.com/radar) for technology watch.
+- Documentation is really important.
+Software architecture documentation creates a common understanding of the solution behind the system for various stakeholders.
+The documentation makes it possible to evaluate the software architecture from the perspective of the various stakeholders.
